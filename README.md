@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-Inicial-yellow)
 ![Static Badge](https://img.shields.io/badge/HTML-Avanzado-orange)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-Básico-blue)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-Inicial-purple)
+![Static Badge](https://img.shields.io/badge/VisualBasic-Inicial-purple)
 
 - 🔭 Actualmente Estoy Trabajando en:
   - Skell's ADO: Un software desarrollado por **Skell's Software.**
