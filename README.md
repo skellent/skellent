@@ -1,16 +1,30 @@
-## Hi there 👋
+## !Hola estrellas, la tierra les dice hola¡ 👋
+✨ ¡Hola! Soy Robert Rodríguez, también conocido como Skellent, soy un desarrollador novato y fundador de **Skell's Software.** ✨
 
-<!--
-**skellent/skellent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Static Badge](https://img.shields.io/badge/Python-Avanzado-blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-Inicial-yellow)
+![Static Badge](https://img.shields.io/badge/HTML-Avanzado-orange)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-Avanzado-blue)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-Inicial-purple)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente Estoy Trabajando en:
+  - Skell's ADO: Un software desarrollado por **Skell's Software.**
+  - Catcher's: Un videojuego **Fangame de FNAF** que desarrollo en **PenguinMod.**
+- 🌱 Actualmente Estoy Aprendiendo:
+  - Python (avanzado)
+  - JavaScript (front y back)
+  - C++
+- 👯 Busco Colaborar en: 
+  - Proyectos Educativos.
+  - Software Renumerado.
+  - Desarrollo de Nuevas Tecnologías
+- 🤔 Estoy Buscando Ayuda con:
+  - No requiero de ayuda hasta los momentos
+- 💬 Preguntame Sobre:
+  - Cualquier tema de interés, eres bienvenido a preguntar.
+- 📫 Como Contactarme:
+  - a través de las redes sociales y enlaces presentes en este perfil.
+- 😄 Pronombres:
+  - Él
+- ⚡ Dato Curioso:
+  - Aún estoy aprendiendo a utilizar GitHub
