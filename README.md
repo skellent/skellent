@@ -1,6 +1,6 @@
 # Skell's Profile
 
-![banner](./Canal/Banner.png)
+![banner](./banner.png)
 
 Hola, soy Robert Rodríguez, conocido en línea como "Skell" o "Skellent",
 me considero un desarrollador de software independiente actualmente por
