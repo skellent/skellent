@@ -1,21 +1,6 @@
 # Skell's Profile
 
-```markdown
-  ╔════════════════════════════════════════════════╗
-┌─║ ████│ █│ █│ ████│ █│   █│   ████│ █│  █│ █████ ║
-│ ║ █│    █│█│  █│    █│   █│   █│    ██│ █│   █│  ║
-│ ║ ████│ ██│   ████│ █│   █│   ████│ █│█│█│   █│  ║
-│ ║    █│ █│█│  █│    █│   █│   █│    █│ ██│   █│  ║
-│ ║ ████│ █│ █│ ████│ ███│ ███│ ████│ █│  █│   █│  ║
-│ ╚════════════════════════════════════════════════╝
-└────────────────────────────────────────────────┘
-```
-
-![Static Badge](https://img.shields.io/badge/Python-Avanzado-blue)
-![Static Badge](https://img.shields.io/badge/JavaScript-Inicial-yellow)
-![Static Badge](https://img.shields.io/badge/HTML-Avanzado-orange)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-Básico-blue)
-![Static Badge](https://img.shields.io/badge/VisualBasic-Inicial-purple)
+![banner](./Canal/Banner.png)
 
 Hola, soy Robert Rodríguez, conocido en línea como "Skell" o "Skellent",
 me considero un desarrollador de software independiente actualmente por
