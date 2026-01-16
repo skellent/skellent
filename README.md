@@ -3,6 +3,7 @@
 ![banner](./banner.png)
 
 ![Static Badge](https://badgers.space/badge/Python/All/blue)
+![Static Badge](https://badgers.space/badge/HTML/Web/orange)
 ![Static Badge](https://badgers.space/badge/JavaScript/Web/yellow)
 ![Static Badge](https://badgers.space/badge/CSS/Web/blue)
 ![Static Badge](https://badgers.space/badge/Rust/Backend/red)
