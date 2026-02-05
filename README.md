@@ -24,13 +24,3 @@ web y nativas del OS correspondiente.
 
 Es una aplicación móvil de punto de venta que (P.O.S.) funciona de forma completamente
 local, desarrollada en python con flet.
-
-### Skell's Discord Client
-
-Es un cliente parcialmente nativo de Discord para uso personal en Linux, desarrollado
-en rust y javascript.
-
-### Skell's WhatsApp Client
-
-Es un cliente similar a "Skell's Discord Client", solo que con WhatsApp.
-Igualmente desarrollada en rust y javascript.
