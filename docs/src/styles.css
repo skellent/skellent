@@ -6,8 +6,156 @@
     font-display: swap;
 }
 
+:root {
+    --primary-color: #8a2be2;
+    --secondary-color: #ead4ff;
+    --text-color: #333;
+    --background-color: #fff;
+}
+
 body {
     font-family: 'SF Pro', sans-serif;
     font-size: larger;
+    margin: 20px;
+}
+
+hr {
+    color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    margin: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
     margin: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    img {
+        height: 40px;
+    }
+
+    ul { padding: 0 ; }
+
+    li {
+        display: inline-block;
+        margin-left: 25px;
+
+        a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+            transition: color 0.2s;
+
+            &:hover {
+                color: var(--primary-color);
+            }
+        }
+    }
+}
+
+#inicio {
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 100px;
+
+    h3 {
+        font-size: 1.5em;
+        color: var(--text-color);
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 1.2em;
+        color: var(--text-color);
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.titulo {
+    width: 100%;
+    font-size: 2.5em;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+}
+
+#proyectos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+
+    a {
+        text-decoration: none;
+        color: var(--text-color);
+        
+        article {
+            min-width: 250px;
+            max-width: 300px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+
+            h2 {
+                font-size: 1.5em;
+                color: var(--primary-color);
+                margin-bottom: 10px;
+            }
+
+            p {
+                font-size: 1em;
+                color: var(--text-color);
+            }
+
+            ul {
+                margin: 0;
+                padding: 0;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-around;
+
+                li {
+                    display: inline-block;
+                    padding: 5px 10px;
+                    color: var(--text-color);
+                    background: var(--secondary-color);
+                    border-radius: 5px;
+                    font-size: 0.9em;
+                }
+            }
+        }
+    }
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    p {
+        font-size: 1.2em;
+        color: var(--text-color);
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 756px) {
+    nav {
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+
+        img {
+            height: 75px;
+        }
+    }
+
+    #proyectos {
+        flex-direction: column;
+        align-items: center;
+    }
 }
