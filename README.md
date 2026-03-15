@@ -1,6 +1,6 @@
 # Skell's Profile
 
-![banner](./banner.png)
+![banner](./web/Little-Banner.png)
 
 ![Static Badge](https://badgers.space/badge/Python/All/blue)
 ![Static Badge](https://badgers.space/badge/HTML/Web/orange)
